@@ -1,2 +1,2 @@
 <?php
-echo "Hello CI Pipeline build completed";
+echo "Hello CI Pipeline build completed cd deployed";
